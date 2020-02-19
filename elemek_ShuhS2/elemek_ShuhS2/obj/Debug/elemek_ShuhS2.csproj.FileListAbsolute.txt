@@ -1,0 +1,7 @@
+C:\Users\Soma\source\repos\elemek_ShuhS2\elemek_ShuhS2\bin\Debug\elemek_ShuhS2.exe.config
+C:\Users\Soma\source\repos\elemek_ShuhS2\elemek_ShuhS2\bin\Debug\elemek_ShuhS2.exe
+C:\Users\Soma\source\repos\elemek_ShuhS2\elemek_ShuhS2\bin\Debug\elemek_ShuhS2.pdb
+C:\Users\Soma\source\repos\elemek_ShuhS2\elemek_ShuhS2\obj\Debug\elemek_ShuhS2.csprojAssemblyReference.cache
+C:\Users\Soma\source\repos\elemek_ShuhS2\elemek_ShuhS2\obj\Debug\elemek_ShuhS2.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\elemek_ShuhS2\elemek_ShuhS2\obj\Debug\elemek_ShuhS2.exe
+C:\Users\Soma\source\repos\elemek_ShuhS2\elemek_ShuhS2\obj\Debug\elemek_ShuhS2.pdb
